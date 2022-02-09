@@ -18,17 +18,17 @@ public class domentacionusuario {
 al iniciarla te pedira 2 numeros, estos seran lo que se usaran en la operación ,en nuestro caso, pondremos  10 y 2
 
 
-y ahora la aplicacion nos preguntara que queremos hacer con esos numeros si ponemos 1 los sumara
+y ahora la aplicacion nos preguntara que queremos hacer con esos numeros si ponemos 1 los sumara y saldra 12
 
-si ponemos 2 hara una resta
-
-
-
-
-si ponemos 3 hara una multiplicacion
+si ponemos 2 hara una resta y saldra 8
 
 
 
-y si ponemos 4 hara una division
+
+si ponemos 3 hara una multiplicacion y saldra 20
+
+
+
+y si ponemos 4 hara una division y saldra 2
  */
 }
